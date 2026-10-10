@@ -56,7 +56,7 @@
 
 ## 🎓 Education & Methodology
 
-### Sakarya University — B.S. in Computer Engineering (2021 – 2026)
+### Sakarya University — B.S. in Computer Engineering (2021 – 2027)
 * **Relevant Focus:** Data Analysis, Database Management Systems, Software Engineering, Algorithms & Data Structures.
 
 ### AI-Accelerated Development Practice
